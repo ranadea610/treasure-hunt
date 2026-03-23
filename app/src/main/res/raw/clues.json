@@ -1,0 +1,23 @@
+[
+  {
+    "clue": "Find a place where students buy groceries late at night.",
+    "hint": "It’s famous for low prices and bulk food.",
+    "latitude": 44.590610,
+    "longitude": -123.274347,
+    "info": "WinCo Foods is a popular grocery store for OSU students."
+  },
+  {
+    "clue": "A small shop between 2 big grocery stores where sweet drinks with tapioca pearls are served.",
+    "hint": "The shop's name is two 4-letter similar sounding words.",
+    "latitude": 44.587546,
+    "longitude": -123.273917,
+    "info": "Bobo Boba is a local bubble tea shop loved by students."
+  },
+  {
+    "clue": "The ultimate destination for boba lovers at OSU.",
+    "hint": "The closest boba shop to campus.",
+    "latitude": 44.567772,
+    "longitude": -123.273563,
+    "info": "Bobahead is one of the most popular boba shops near OSU."
+  }
+]
